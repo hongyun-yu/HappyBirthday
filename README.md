@@ -1,6 +1,7 @@
 # 生日快乐
 
-本项目在原作者的基础上进行了一些改进。
+本项目复刻自 <https://github.com/abandon888/HappyBirthday/>
+
 本项目预览页面：<https://hongyun-yu.github.io/HappyBirthday.github.io/>
 
 改进点：
@@ -25,4 +26,6 @@ fork 本项目，修改 customize.json 文件，将里面的内容替换为你�
 
 整体使用的是纯 HTML、CSS 和 JavaScript，以及 GSAP 来制作动画。
 
-感谢原项目作者的开源，本项目基于原项目进行修改，原项目地址：<https://github.com/faahim/happy-birthday>
+感谢原项目作者的开源，感兴趣的请给原项目和复刻作者 star，
+原项目地址：<https://github.com/faahim/happy-birthday>
+复刻项目地址： <https://github.com/abandon888/HappyBirthday/>
