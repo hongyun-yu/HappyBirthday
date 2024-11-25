@@ -55,9 +55,6 @@ playPauseButton.addEventListener('click', () => {
 })
 
 
-
-
-
 // Animation Timeline
 const animationTimeline = () => {
   // Spit chars that needs to be animated individually
@@ -301,7 +298,7 @@ const animationTimeline = () => {
     )
     .staggerTo(
       ".eight svg",
-      1.5,
+      3,
       {
         visibility: "visible",
         opacity: 0,
